@@ -1,33 +1,33 @@
-#House Price Prediction using Linear Regression
+House Price Prediction using Linear Regression
 
 This project implements a **Linear Regression model** to predict house prices based on key features such as **square footage**, **number of bedrooms**, and **number of bathrooms**.
 
-##Task Description
+Task Description
 Implement a linear regression model to predict the prices of houses using given numerical features.
 
-##Dataset
+Dataset
 - Source: Kaggle – House Prices: Advanced Regression Techniques  
 - Link: https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
 - File used: `train.csv`
 
-##Files in this Repository
+Files in this Repository
 - `house_price.py` – Python script for data preprocessing, model training, and prediction  
 - `train.csv` – Dataset used to train the model  
-- `README.md` – Project documentation  
-
-##Technologies Used
+- `README.md` – Project documentation
+  
+Technologies Used
 - Python  
 - Pandas  
 - NumPy  
 - Scikit-learn  
 - Matplotlib  
 
-##Features Used
+Features Used
 - `GrLivArea` – Above ground living area (square feet)  
 - `BedroomAbvGr` – Number of bedrooms  
 - `FullBath` – Number of bathrooms  
 
-##How to Run the Project
+How to Run the Project
 1. Clone this repository:
    ```bash
    git clone https://github.com/DINESH06-PRO/house-price.git
